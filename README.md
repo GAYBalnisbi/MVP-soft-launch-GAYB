@@ -67,7 +67,7 @@ If you’re passionate about logistics, student innovation, or launching lean MV
 
 ## 🧕 Founder
 
-Built by [Summaya Ibrahim](https://github.com/your-username)  
+Built by [Summaya Ibrahim](https://github.com/GAYBalnisbi)  
 In loving dedication to student dignity, family legacy, and sacred trust.
 
 ---
