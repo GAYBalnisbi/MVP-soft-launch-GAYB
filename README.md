@@ -36,7 +36,7 @@ GAYB (meaning "The Unseen") offers a secure, affordable, and student-friendly wa
 
 ## 🧪 How to Use or Test
 
-1. Visit the live MVP [Click here](https://github.com/GAYBalnisbi/MVP-soft-launch-GAYB)
+1. Visit the live MVP [Click here](http://gaybalnisbi.com.ng/)
 2. Explore the landing page
 3. Use the registration form to sign up for a box
 4. Contact via WhatsApp for further assistance
